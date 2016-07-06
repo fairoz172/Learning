@@ -8,7 +8,6 @@ import com.upworkproject.controller.MainController;
 
 public class MainControllerTests extends TestCase
 {
-
 	public void testHandleRequestView() throws Exception
 	{
 		MainController controller = new MainController();
